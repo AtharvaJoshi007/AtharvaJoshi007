@@ -5,7 +5,7 @@
 Currently pursuing a B.E. at Pimpri Chinchwad College of Engineering (PCCOE), with a CGPA of 9.51/10. I am deeply interested in exploring and applying AI technologies to solve real-world problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva%20Joshi-blue)](www.linkedin.com/in/atharva-joshi-4a759b243)
-[![Gmail](https://img.shields.io/badge/Email-atharva.joshi@gmail.com-red)](mailto:atharvacjoshi11@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-atharvacjoshi11@gmail.com-red)](mailto:atharvacjoshi11@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-green)](https://atharvajoshi.com)  Replace with your portfolio link -->
 
 ---
@@ -31,7 +31,7 @@ Currently pursuing a B.E. at Pimpri Chinchwad College of Engineering (PCCOE), wi
 
 ## 💼 Professional Experience
 
-### Deep Learning Intern | [Quaza AI] | [Bengaluru] | [Jun 2024 - Aug 2024]
+### Deep Learning Intern | Quaza AI | Bengaluru | Jun 2024 - Aug 2024
 - **Project:** Human Pose Estimation and Gesture Detection using Custom LSTM 
 - **Responsibilities:**
   -  Developed techniques for multi-human gesture detection using Yolo and MediaPipe with multithreading.
@@ -39,7 +39,7 @@ Currently pursuing a B.E. at Pimpri Chinchwad College of Engineering (PCCOE), wi
   -  Created a post-processing algorithms after converting MediaPipe Heavy Model from TFLite to ONNX
   -  Algorithms used and modified - OneEuroFilter, RelativeVelocity Filter, LowPass Filter
 
-### Computer Vision Intern | [Immertivity AI (Now Quaza AI)] | [Bengaluru] | [Sept 2023 - Nov 2023]
+### Computer Vision Intern | Immertivity AI (Now Quaza AI) | Bengaluru | Sept 2023 - Nov 2023
 - **Project:** Human Pose Estimation Models
 - **Responsibilities:**
   - Working on Human Pose Estimation Models using Deep Learning Frameworks, OpenCV, MediaPipe
