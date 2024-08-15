@@ -80,7 +80,7 @@ improve the F1 Score for fraud detection.
 
 - **LinkedIn:** [Atharva Joshi](www.linkedin.com/in/atharva-joshi-4a759b243)
 - **GitHub:** [github.com/Atharva-Joshi](https://github.com/AtharvaJoshi007/AtharvaJoshi007/)
-- **Email:** [atharva.joshi@gmail.com](mailto:atharvacjoshi11@gmail.com)
+- **Email:** [atharvacjoshi11@gmail.com](mailto:atharvacjoshi11@gmail.com)
 <!-- - **Portfolio:** [atharvajoshi.com](https://atharvajoshi.com)  Replace with your portfolio link -->
 
 ---
